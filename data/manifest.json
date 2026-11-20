@@ -1,0 +1,29 @@
+{
+  "archived_scores_sha256": "ff91a0d6f0fbcece372a9dba3aadc5f98c1ec768ad86a9e582c9799e90551c30",
+  "release_scores_sha256": "83be904e7dee3527512707bab2dd7459618374b33361ebd84bef3da065c70ab6",
+  "release_human_spot_check_sha256": "0e564f84272f34e9fbfaa73be92c95555255fd4778eb76414b92617ee18c823e",
+  "scored_rows": 584484,
+  "released_score_columns": [
+    "chain_id",
+    "item_id",
+    "domain",
+    "condition",
+    "arm",
+    "replicate",
+    "k",
+    "fact_id",
+    "origin",
+    "cohort_hop",
+    "relays",
+    "fact_type",
+    "guessable",
+    "status_v2",
+    "status_v3",
+    "span_ok",
+    "value_present"
+  ],
+  "human_judgments": 93,
+  "human_spot_check_notes": 5,
+  "document_bootstrap_draws": 20000,
+  "document_bootstrap_seed": 20261109
+}
